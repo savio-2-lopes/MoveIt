@@ -63,7 +63,7 @@ Projeto desenvolvido durante a **4º edição da NLW - Next Level Week** ofereci
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto é bom ter um editor para trabalhar com o código, como [VSCode](https://code.visualstudio.com/)
 
 <br>
 
@@ -84,7 +84,7 @@ $ npm install
 $ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn start
+$ yarn dev
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
