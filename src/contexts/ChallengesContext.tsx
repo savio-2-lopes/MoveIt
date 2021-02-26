@@ -16,7 +16,7 @@ export const ChallengesContext = createContext({} as ChallengesContextData)
 
 export function ChallengesProvider({ children }: ChallengesProviderProps) {
     const [level, setLevel] = useState(1);
-    const [curretExperience, setCurrentExperience] = useState(0);
+    const [currentExperience, setCurrentExperience] = useState(0);
     const [challengesCompleted, setChallengesCompleted] = useState(0)
 
     function levelUp() {
@@ -31,7 +31,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
         <ChallengesContext.Provider
             value={{
                 level,
-                curretExperience,
+                currentExperience,
                 challengesCompleted,
                 levelUp,
                 startNewChallenge
