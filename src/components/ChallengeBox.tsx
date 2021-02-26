@@ -31,6 +31,7 @@ export function ChallengeBox() {
                         <button
                             type="button"
                             className={styles.challengeSucceededButton}
+                            onClick={completeChallenge}
                         >
                             Completei
                         </button>
