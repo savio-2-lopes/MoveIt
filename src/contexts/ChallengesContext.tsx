@@ -4,7 +4,7 @@ import challenges from '../../challenges.json'
 interface Challenge {
     type: 'body' | 'eye';
     description: number;
-    amount: number
+    amount: number;
 }
 
 interface ChallengesContextData {
