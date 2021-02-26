@@ -38,6 +38,12 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
         Notification.requestPermission()
     }, [])
 
+    useEffect(() => {
+        Cookies.set('level', String(level));
+        Cookies.set('currentExperience', String(currentExperience));
+        Cookies.set('challengeCompleted', String(challengesCompleted));
+    }, [level, currentExperience, challengesCompleted])
+
     function levelUp() {
         setLevel(level + 1)
     }
