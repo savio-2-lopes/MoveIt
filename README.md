@@ -50,7 +50,7 @@ Projeto desenvolvido durante a **4º edição da NLW - Next Level Week** ofereci
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Move.it" title="#Move.it" src="./assets/1.gif" width="600px">
+  <img alt="Move.it" title="#Move.it" src="./assets/01.gif" width="600px">
 </p>
 
 <br>
