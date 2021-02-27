@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> f1cdbded08cd7b4babfd737131436e8d1ca9162b
 <h3 align="center">
     <img alt="Move.it" title="Move.it" src="./assets/logotipo.svg" width="250px" />
 </h3>
 
+<<<<<<< HEAD
 <br>
+=======
+
+<br> 
+>>>>>>> f1cdbded08cd7b4babfd737131436e8d1ca9162b
 
 <p align="center"> :tada: <strong>Move.it - 4º NLW</strong> 🚧</p>
  
@@ -20,7 +29,11 @@
   </a>
 </p>
 
+<<<<<<< HEAD
 <br>
+=======
+<br> 
+>>>>>>> f1cdbded08cd7b4babfd737131436e8d1ca9162b
 
 ## :pushpin: Índice
 
@@ -122,8 +135,13 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 <a id="autor"></a>
 
 ## 🦸 Autor
+<<<<<<< HEAD
 
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/)
+=======
+        
+[![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
+>>>>>>> f1cdbded08cd7b4babfd737131436e8d1ca9162b
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
@@ -134,6 +152,12 @@ Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linked
 
 <a id="agradecimento"></a>
 
+<<<<<<< HEAD
 ## 💙 Agradecimentos
 
 Obrigado [Rocketseat](https://rocketseat.com.br/) por disponibilizar esse conteúdo sensacional 🚀.
+=======
+## 💙  Agradecimentos
+Obrigado [Rocketseat](https://rocketseat.com.br/) por disponibilizar esse conteúdo sensacional 🚀.
+
+>>>>>>> f1cdbded08cd7b4babfd737131436e8d1ca9162b
