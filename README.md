@@ -2,12 +2,8 @@
     <img alt="Move.it" title="Move.it" src="./assets/logotipo.svg" width="250px" />
 </h3>
 
-<br>
-
 <p align="center"> :tada: <strong>Move.it - 4º NLW</strong> 🚧</p>
  
-<br>
-
 <p align="center">
    <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
   
