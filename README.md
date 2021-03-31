@@ -7,7 +7,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
   
-  <a href="https://github.com/savio-2-lopes">
+  <a href="https://github.com/savio-2-lopes"> 
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
  
